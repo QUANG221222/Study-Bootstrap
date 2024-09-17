@@ -1,0 +1,4 @@
+.mydiv {
+  background-color: rgb(193, 18, 193);
+  background-image: var(--bs-gradient);
+}
