@@ -1,0 +1,9 @@
+.navbar-brand img {
+  width: 130px;
+  height: 28px;
+}
+@media (max-width: 768px) {
+  .navbar-action a {
+    width: 100%;
+  }
+}
